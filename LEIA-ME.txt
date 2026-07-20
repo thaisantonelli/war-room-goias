@@ -1,0 +1,10 @@
+WAR ROOM GOIÁS — ARQUIVOS SEPARADOS
+
+Suba os dois arquivos para a raiz do repositório:
+- index.html
+- dados.js
+
+Na primeira instalação, substitua o index.html e adicione dados.js.
+Nas atualizações seguintes, substitua SOMENTE dados.js.
+
+Não renomeie os arquivos.
